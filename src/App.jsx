@@ -11,7 +11,7 @@ function App() {
       description: "R3 Hearth Colive",
 
       // PASTE PG GOOGLE MAPS LINK HERE
-      mapLink: "https://maps.app.goo.gl/2JhUmg7ZiAR886K76",
+      mapLink: "https://maps.app.goo.gl/NQpbkABuVtgg8cKH6",
     },
     {
       title: "Coaching Center",
