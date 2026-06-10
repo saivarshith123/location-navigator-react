@@ -11,7 +11,7 @@ function App() {
       description: "R3 Hearth Colive",
 
       // PASTE PG GOOGLE MAPS LINK HERE
-      mapLink: "PASTE_PG_LOCATION_LINK_HERE",
+      mapLink: "https://maps.app.goo.gl/2JhUmg7ZiAR886K76",
     },
     {
       title: "Coaching Center",
@@ -19,7 +19,7 @@ function App() {
       description: "V Cube Software Solutions",
 
       // PASTE COACHING CENTER GOOGLE MAPS LINK HERE
-      mapLink: "PASTE_COACHING_CENTER_LOCATION_LINK_HERE",
+      mapLink: "https://maps.app.goo.gl/sPUKqZPHsqzeWrGz8?g_st=aw",
     },
     {
       title: "Study Room",
@@ -27,7 +27,7 @@ function App() {
       description: "Ramadhani Reading Room",
 
       // PASTE STUDY ROOM GOOGLE MAPS LINK HERE
-      mapLink: "PASTE_STUDY_ROOM_LOCATION_LINK_HERE",
+      mapLink: "https://maps.app.goo.gl/t6TSw56xzBwChVHS6?g_st=ac",
     },
   ];
 
